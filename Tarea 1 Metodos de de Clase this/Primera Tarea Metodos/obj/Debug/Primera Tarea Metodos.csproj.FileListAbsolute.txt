@@ -1,0 +1,7 @@
+D:\Tarea Programar\Primera Tarea Metodos\Primera Tarea Metodos\bin\Debug\Primera Tarea Metodos.exe.config
+D:\Tarea Programar\Primera Tarea Metodos\Primera Tarea Metodos\bin\Debug\Primera Tarea Metodos.exe
+D:\Tarea Programar\Primera Tarea Metodos\Primera Tarea Metodos\bin\Debug\Primera Tarea Metodos.pdb
+D:\Tarea Programar\Primera Tarea Metodos\Primera Tarea Metodos\obj\Debug\Primera Tarea Metodos.csprojAssemblyReference.cache
+D:\Tarea Programar\Primera Tarea Metodos\Primera Tarea Metodos\obj\Debug\Primera Tarea Metodos.csproj.CoreCompileInputs.cache
+D:\Tarea Programar\Primera Tarea Metodos\Primera Tarea Metodos\obj\Debug\Primera Tarea Metodos.exe
+D:\Tarea Programar\Primera Tarea Metodos\Primera Tarea Metodos\obj\Debug\Primera Tarea Metodos.pdb
